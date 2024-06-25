@@ -1,0 +1,13 @@
+.ytp-caption-segment {
+    font-family:sans-serif;    
+    font-weight: bold;
+    font-size: 18px ;
+    color: #ffff!important;
+    border-radius: 5px !important;
+    background-color:  rgba(255, 0, 0, 0) !important;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, .2);
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
