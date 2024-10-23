@@ -12,6 +12,7 @@ This project modifies YouTube captions to have a glassmorphic effect using custo
 - **Glassmorphic Effect:** The captions have a blurred background with a semi-transparent overlay.
 - **Customizable Appearance:** Adjust font size, color, and other properties easily.
 - **Easy Integration:** Simple CSS code that can be easily added to any project.
+- **Dynamic Background Control:** Use the "w" key to dynamically change the caption's background from light to grey to dark.
 
 ## Installation
 
